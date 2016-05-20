@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Movies (DarkRP)"
+	"version"     "1.0"
+	"author_name" "!cake"
+	"author_url"  ""
+	"info"        "Adds the movie manager job to DarkRP"
+	"override"    "0"
+}
